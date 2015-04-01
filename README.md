@@ -33,8 +33,8 @@ Status Code                         | Quote
 413 Request Entity Too Large        | That's no moon. It's a space station.
 414 Request-URI Too Long            |
 415 Unsupported Media Type          | Sir, I don't know where your ship learned to communicate, but it has the most peculiar dialect.
-416 Request Range Not Satisfiable   |
-417 Expectation Failed              |
+416 Request Range Not Satisfiable   | At that close range we won't last long against those Star Destroyers!
+417 Expectation Failed              | Our cruisers can't repel firepower of that magnitude!
 500 Internal Server Error           | Uh, we had a slight weapons malfunction, but uh... everything's perfectly all right now. We're fine. We're all fine here now, thank you. How are you?
 501 Not Implemented                 |
 502 Bad Gateway                     |
