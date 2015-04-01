@@ -13,6 +13,13 @@ quote to each entity based on the HTTP Status Code that accurately describes the
 HTTP specification does an okay job describing status codes, but with Hyperdrive quotes, the process is
 much more streamlined and awesome.
 
+## Rules
+
+  * A Hyperdrive response MUST be valid JSON
+  * A Hyperdrive response MUST have a key called hyperquote which uses the Quote from the table below based on
+    the HTTP Status Code
+  * A Hyperdrive response SHOULD use the media type application/vnd.hyperdrive+json
+
 ## Messages
 
 Status Code                         | Quote
