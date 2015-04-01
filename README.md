@@ -67,14 +67,14 @@ Status Code                         | Quote
 201 Created                         | Oh, I'm afraid the deflector shield will be quite operational when your friends arrive.
 202 Accepted                        | I want to learn the ways of the Force and become a Jedi like my father.
 203 Non-Authoritative Information   | I have placed information vital to the survival of the Rebellion into the memory systems of this R2 unit.
-204 No Content                      | -
+204 No Content                      | &lt; MUST NOT contain a message body https://tools.ietf.org/html/rfc7231#section-6.3.5 &gt;
 205 Reset Content                   | Clear your mind of questions.
 206 Partial Content                 | Is there more to this recording?
 300 Multiple Choices                | I'm taking Captain Solo and his friends. You can either profit by this or be destroyed. It's your choice, but I warn you not to underestimate my power.
 301 Moved Permanently               | Move the ship out of the asteroid field so that we can send a clear transmission.
 302 Found                           | Sir, rebel ships are coming into our sector.
 303 See Other                       | Move along. Move along.
-304 Not Modified                    |
+304 Not Modified                    | &lt; MUST NOT contain a message body https://tools.ietf.org/html/rfc7232#section-4.1 &gt;
 305 Use Proxy                       |
 307 Temporary Redirect              | Set your course for Alderaan.
 400 Bad Request                     | I'm terribly sorry about all this. After all, he's only a Wookiee.
