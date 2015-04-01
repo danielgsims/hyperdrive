@@ -75,7 +75,7 @@ Status Code                         | Quote
 302 Found                           | Sir, rebel ships are coming into our sector.
 303 See Other                       | Move along. Move along.
 304 Not Modified                    |
-305 Use Proxy                       |
+305 Use Proxy                       | I am a member of the Imperial Senate on a diplomatic mission to Alderaan.
 307 Temporary Redirect              | Set your course for Alderaan.
 400 Bad Request                     | I'm terribly sorry about all this. After all, he's only a Wookiee.
 401 Unauthorized                    | Aren't you a little short for a stormtrooper?
