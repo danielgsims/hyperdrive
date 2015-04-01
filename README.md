@@ -70,7 +70,7 @@ Status Code                         | Quote
 300 Multiple Choices                | I'm taking Captain Solo and his friends. You can either profit by this or be destroyed. It's your choice, but I warn you not to underestimate my power.
 301 Moved Permanently               | Move the ship out of the asteroid field so that we can send a clear transmission.
 302 Found                           | Sir, rebel ships are coming into our sector.
-303 See Other                       |
+303 See Other                       | Move along. Move along.
 304 Not Modified                    |
 305 Use Proxy                       |
 307 Temporary Redirect              | Set your course for Alderaan.
