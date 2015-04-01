@@ -16,7 +16,7 @@ Status Code                         | Quote
 303 See Other                       |
 304 Not Modified                    |
 305 Use Proxy                       |
-307 Temporary Redirect              |
+307 Temporary Redirect              | Set your course for Alderaan.
 400 Bad Request                     | I'm terribly sorry about all this. After all, he's only a Wookiee.
 401 Unauthorized                    | Aren't you a little short for a stormtrooper?
 402 Payment Required                |
