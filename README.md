@@ -1,5 +1,19 @@
-# hyperdrive
-Hyperdrive - A Hypermedia Specification
+# Hyperdrive - A Hypermedia Specification
+
+### Current Version 0.1
+
+Any input is appreciated. You can file an issue, make a pull request or reach out on Twitter
+
+## Introduction
+
+Hyperdrive is a hypermedia specification for representing entities.
+Hyperdrive is intended to be generic specification extends existing JSON hypermedia sepcifications,
+making them even more awesome, kind of like painting flames on a space ship. Hyperdrive adds a detailed
+quote to each entity based on the HTTP Status Code that accurately describes the status. The existing
+HTTP specification does an okay job describing status codes, but with Hyperdrive quotes, the process is
+much more streamlined and awesome.
+
+## Messages
 
 Status Code                         | Quote
 ------------------------------------|-----------------------------------------------------------------------
