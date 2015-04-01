@@ -20,6 +20,42 @@ much more streamlined and awesome.
     the HTTP Status Code
   * A Hyperdrive response SHOULD use the media type application/vnd.hyperdrive+json
 
+## Example
+
+On a GET request to /prisoners when you are not authorized, you might get the following HAL response:
+
+```
+    {
+       "hyperquote": "Aren't you a little short for a stormtrooper?"
+       "_links": {
+            "self": { "href": "/prisoners" },
+       }
+    }
+```
+
+When trying to POST to /locations/mos-eisley-cantina and you use a wrong media type:
+
+```
+    {
+       "hyperquote": "Hey! We don't serve their kind here.",
+       "_links": {
+            "self": { "href": "/locations/mos-eisley-cantina" },
+       }
+    }
+```
+
+When requesting an accept for processing, but the processing isn't wrapped up yet, you can send a 202 like this:
+
+```
+    {
+        "hyperquote": "I want to learn the ways of the Force and become a Jedi like my father.",
+        "foo": "bar",
+        "_links": {
+            "self": { "href": "/foo" }
+        }
+    }
+```
+
 ## Messages
 
 Status Code                         | Quote
@@ -44,7 +80,7 @@ Status Code                         | Quote
 403 Forbidden                       | No, I don't think he likes you at all. No, I don't like you either.
 404 Not Found                       | These aren't the droids you're looking for.
 405 Method Not Allowed              | Surrender is a perfectly acceptable alternative in extreme circumstances!
-406 Not Acceptable                  | Your droids. They'll have to wait outside. We don't want them here.
+406 Not Acceptable                  | Hey! We don't serve their kind here.
 407 Proxy Authentication Required   |
 408 Request Timeout                 | Han will have that shield down. We've got to give him more time!
 409 Conflict                        | Your thoughts betray you, Father. I feel the good in you, the conflict.
