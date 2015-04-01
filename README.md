@@ -6,9 +6,9 @@ Status Code                         | Quote
 200 OK                              |
 201 Created                         |
 202 Accepted                        |
-203 Non-Authoritative Information   |
-204 No Content                      |
-205 Reset Content                   |
+203 Non-Authoritative Information   | I have placed information vital to the survival of the Rebellion into the memory systems of this R2 unit.
+204 No Content                      | -
+205 Reset Content                   | -
 206 Partial Content                 |
 300 Multiple Choices                |
 301 Moved Permanently               |
@@ -26,7 +26,7 @@ Status Code                         | Quote
 406 Not Acceptable                  | Your droids. They'll have to wait outside. We don't want them here.
 407 Proxy Authentication Required   |
 408 Request Timeout                 | Han will have that shield down. We've got to give him more time!
-409 Conflict                        |
+409 Conflict                        | Your thoughts betray you, Father. I feel the good in you, the conflict.
 410 Gone                            |
 411 Length Required                 |
 412 Precondition Failed             |
