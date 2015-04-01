@@ -12,7 +12,7 @@ Status Code                         | Quote
 206 Partial Content                 |
 300 Multiple Choices                |
 301 Moved Permanently               |
-302 Found                           |
+302 Found                           | Sir, rebel ships are coming into our sector.
 303 See Other                       |
 304 Not Modified                    |
 305 Use Proxy                       |
@@ -22,10 +22,10 @@ Status Code                         | Quote
 402 Payment Required                | I expect to be well paid. I'm in it for the money.
 403 Forbidden                       |
 404 Not Found                       |
-405 Method Not Allowed              |
+405 Method Not Allowed              | Surrender is a perfectly acceptable alternative in extreme circumstances!
 406 Not Acceptable                  | Your droids. They'll have to wait outside. We don't want them here.
 407 Proxy Authentication Required   |
-408 Request Timeout                 |
+408 Request Timeout                 | Han will have that shield down. We've got to give him more time!
 409 Conflict                        |
 410 Gone                            |
 411 Length Required                 |
@@ -41,4 +41,3 @@ Status Code                         | Quote
 503 Service Unavailable             |
 504 Gateway Timeout                 |
 505 HTTP Version Not Support        |
-
