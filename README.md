@@ -16,8 +16,7 @@ much more streamlined and awesome.
 ## Rules
 
   * A Hyperdrive response MUST be valid JSON
-  * A Hyperdrive response MUST have a key called hyperquote which uses the Quote from the table below based on
-    the HTTP Status Code
+  * If Hyperdrive response sends a body, the body MUST have a key called hyperquote whose contents SHOULD be the Quote from the table below based on the HTTP Status Code. Other quotes can be substituted if needed.
   * A Hyperdrive response SHOULD use the media type application/vnd.hyperdrive+json
 
 ## Example
@@ -101,3 +100,8 @@ Status Code                         | Quote
 503 Service Unavailable             | If I may say so, sir, I noticed earlier the hyperdrive motivator has been damaged. It's impossible to go to lightspeed.
 504 Gateway Timeout                 | Sorry sweetheart. I haven't got time for anything else.
 505 HTTP Version Not Support        | Don't blame me. I'm an interpreter. I'm not supposed to know a power socket from a computer terminal.
+
+
+#### Legal Things
+
+Hyperdrive must be used in accordance with Fair Use rules due to the nature of the quotes above. 
