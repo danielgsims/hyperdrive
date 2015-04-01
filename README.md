@@ -7,7 +7,7 @@ Any input is appreciated. You can file an issue, make a pull request or reach ou
 ## Introduction
 
 Hyperdrive is a hypermedia specification for representing entities.
-Hyperdrive is intended to be generic specification extends existing JSON hypermedia specifications,
+Hyperdrive is intended to be generic specification that extends existing JSON hypermedia specifications,
 making them even more awesome, kind of like painting flames on a space ship. Hyperdrive adds a detailed
 quote to each entity based on the HTTP Status Code that accurately describes the status. The existing
 HTTP specification does an okay job describing status codes, but with Hyperdrive quotes, the process is
@@ -62,7 +62,7 @@ Status Code                         | Quote
 ------------------------------------|-----------------------------------------------------------------------
 100	Continue                    | Continue with the operation; you may fire when ready.
 101	Switching Protocols         | You've only begun to discover your power! Join me, and I will complete your training! With our combined strength, we can bring order to the galaxy.
-102	Processing                  | It'll take a few moments to get the coordinates from the navi-computer. 
+102	Processing                  | It'll take a few moments to get the coordinates from the navi-computer.
 200 OK                              |
 201 Created                         | Oh, I'm afraid the deflector shield will be quite operational when your friends arrive.
 202 Accepted                        | I want to learn the ways of the Force and become a Jedi like my father.
