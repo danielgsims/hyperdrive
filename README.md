@@ -61,7 +61,7 @@ When requesting an accept for processing, but the processing isn't wrapped up ye
 Status Code                         | Quote
 ------------------------------------|-----------------------------------------------------------------------
 100	Continue                        | Continue with the operation; you may fire when ready.
-101	Switching Protocols             | 
+101	Switching Protocols             | You've only begun to discover your power! Join me, and I will complete your training! With our combined strength, we can bring order to the galaxy.
 102	Processing                      | It'll take a few moments to get the coordinates from the navi-computer. 
 200 OK                              |
 201 Created                         | Oh, I'm afraid the deflector shield will be quite operational when your friends arrive.
