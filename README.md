@@ -60,6 +60,9 @@ When requesting an accept for processing, but the processing isn't wrapped up ye
 
 Status Code                         | Quote
 ------------------------------------|-----------------------------------------------------------------------
+100	Continue                        | Continue with the operation; you may fire when ready.
+101	Switching Protocols             | 
+102	Processing                      | It'll take a few moments to get the coordinates from the navi-computer. 
 200 OK                              |
 201 Created                         | Oh, I'm afraid the deflector shield will be quite operational when your friends arrive.
 202 Accepted                        | I want to learn the ways of the Force and become a Jedi like my father.
@@ -93,8 +96,8 @@ Status Code                         | Quote
 416 Request Range Not Satisfiable   | At that close range we won't last long against those Star Destroyers!
 417 Expectation Failed              | Our cruisers can't repel firepower of that magnitude!
 500 Internal Server Error           | Uh, we had a slight weapons malfunction, but uh... everything's perfectly all right now. We're fine. We're all fine here now, thank you. How are you?
-501 Not Implemented                 |
-502 Bad Gateway                     |
-503 Service Unavailable             |
-504 Gateway Timeout                 |
-505 HTTP Version Not Support        |
+501 Not Implemented                 | If only you'd attached my legs, I wouldn't be in this ridiculous position.
+502 Bad Gateway                     | You said you wanted to be around when I made a mistake, well, this could be it, sweetheart.
+503 Service Unavailable             | If I may say so, sir, I noticed earlier the hyperdrive motivator has been damaged. It's impossible to go to lightspeed.
+504 Gateway Timeout                 | Sorry sweetheart. I haven't got time for anything else. 
+505 HTTP Version Not Support        | Don't blame me. I'm an interpreter. I'm not supposed to know a power socket from a computer terminal.
