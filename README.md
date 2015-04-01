@@ -2,7 +2,7 @@
 Hyperdrive - A Hypermedia Specification
 
 Status Code                         | Quote
-------------------------------------|------------------------------
+------------------------------------|-----------------------------------------------------------------------
 200 OK                              |
 201 Created                         |
 202 Accepted                        |
@@ -17,8 +17,8 @@ Status Code                         | Quote
 304 Not Modified                    |
 305 Use Proxy                       |
 307 Temporary Redirect              |
-400 Bad Request                     |
-401 Unauthorized                    |
+400 Bad Request                     | I'm terribly sorry about all this. After all, he's only a Wookiee.
+401 Unauthorized                    | Aren't you a little short for a stormtrooper?
 402 Payment Required                |
 403 Forbidden                       |
 404 Not Found                       |
