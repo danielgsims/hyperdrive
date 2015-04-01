@@ -65,8 +65,8 @@ Status Code                         | Quote
 202 Accepted                        | I want to learn the ways of the Force and become a Jedi like my father.
 203 Non-Authoritative Information   | I have placed information vital to the survival of the Rebellion into the memory systems of this R2 unit.
 204 No Content                      | -
-205 Reset Content                   | -
-206 Partial Content                 | -
+205 Reset Content                   | Clear your mind of questions.
+206 Partial Content                 | Is there more to this recording?
 300 Multiple Choices                | I'm taking Captain Solo and his friends. You can either profit by this or be destroyed. It's your choice, but I warn you not to underestimate my power.
 301 Moved Permanently               | Move the ship out of the asteroid field so that we can send a clear transmission.
 302 Found                           | Sir, rebel ships are coming into our sector.
@@ -81,14 +81,14 @@ Status Code                         | Quote
 404 Not Found                       | These aren't the droids you're looking for.
 405 Method Not Allowed              | Surrender is a perfectly acceptable alternative in extreme circumstances!
 406 Not Acceptable                  | Hey! We don't serve their kind here.
-407 Proxy Authentication Required   |
+407 Proxy Authentication Required   | Hey, you're not permitted in there. It's restricted.
 408 Request Timeout                 | Han will have that shield down. We've got to give him more time!
 409 Conflict                        | Your thoughts betray you, Father. I feel the good in you, the conflict.
 410 Gone                            | Thats what I'm trying to tell you, kid. It ain't there. It's been totally blown away.
 411 Length Required                 | How far away is Yoda? Will it take us long to get there?
 412 Precondition Failed             | Try not. Do... or do not. There is no try.
 413 Request Entity Too Large        | That's no moon. It's a space station.
-414 Request-URI Too Long            |
+414 Request-URI Too Long            | I can't. It's too big.
 415 Unsupported Media Type          | Sir, I don't know where your ship learned to communicate, but it has the most peculiar dialect.
 416 Request Range Not Satisfiable   | At that close range we won't last long against those Star Destroyers!
 417 Expectation Failed              | Our cruisers can't repel firepower of that magnitude!
