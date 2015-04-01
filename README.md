@@ -62,7 +62,7 @@ Status Code                         | Quote
 ------------------------------------|-----------------------------------------------------------------------
 100	Continue                        | Continue with the operation; you may fire when ready.
 101	Switching Protocols             | 
-102	Processing                      | 
+102	Processing                      | It'll take a few moments to get the coordinates from the navi-computer. 
 200 OK                              |
 201 Created                         | Oh, I'm afraid the deflector shield will be quite operational when your friends arrive.
 202 Accepted                        | I want to learn the ways of the Force and become a Jedi like my father.
