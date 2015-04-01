@@ -5,7 +5,7 @@ Status Code                         | Quote
 ------------------------------------|-----------------------------------------------------------------------
 200 OK                              |
 201 Created                         | Oh, I'm afraid the deflector shield will be quite operational when your friends arrive.
-202 Accepted                        |
+202 Accepted                        | I want to learn the ways of the Force and become a Jedi like my father.
 203 Non-Authoritative Information   | I have placed information vital to the survival of the Rebellion into the memory systems of this R2 unit.
 204 No Content                      | -
 205 Reset Content                   | -
@@ -27,8 +27,8 @@ Status Code                         | Quote
 407 Proxy Authentication Required   |
 408 Request Timeout                 | Han will have that shield down. We've got to give him more time!
 409 Conflict                        | Your thoughts betray you, Father. I feel the good in you, the conflict.
-410 Gone                            |
-411 Length Required                 |
+410 Gone                            | Thats what I'm trying to tell you, kid. It ain't there. It's been totally blown away.
+411 Length Required                 | How far away is Yoda? Will it take us long to get there?
 412 Precondition Failed             | Try not. Do... or do not. There is no try.
 413 Request Entity Too Large        | That's no moon. It's a space station.
 414 Request-URI Too Long            |
