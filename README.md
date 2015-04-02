@@ -1,3 +1,5 @@
+![Jabba the Hutt wearing shutter shades.](https://github.com/danielgsims/hyperdrive/blob/master/jabba.png "Hyperdrive Graphic")
+
 # Hyperdrive - A Hypermedia Specification
 
 ### Current Version 0.1
