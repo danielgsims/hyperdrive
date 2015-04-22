@@ -103,6 +103,9 @@ Status Code                         | Quote
 504 Gateway Timeout                 | Sorry sweetheart. I haven't got time for anything else.
 505 HTTP Version Not Support        | Don't blame me. I'm an interpreter. I'm not supposed to know a power socket from a computer terminal.
 
+#### Security
+
+Hyperdrive extends existing JSON-based hypermedia specifications, which will have their own security considerations. Consult the specification for the media type that you might extend to see their security considerations.
 
 #### Legal Things
 
