@@ -64,7 +64,7 @@ Status Code                         | Quote
 100	Continue                    | Continue with the operation; you may fire when ready.
 101	Switching Protocols         | You've only begun to discover your power! Join me, and I will complete your training! With our combined strength, we can bring order to the galaxy.
 102	Processing                  | It'll take a few moments to get the coordinates from the navi-computer.
-200 OK                              |
+200 OK                              | Everything is proceeding as I have foreseen.
 201 Created                         | Oh, I'm afraid the deflector shield will be quite operational when your friends arrive.
 202 Accepted                        | I want to learn the ways of the Force and become a Jedi like my father.
 203 Non-Authoritative Information   | I have placed information vital to the survival of the Rebellion into the memory systems of this R2 unit.
